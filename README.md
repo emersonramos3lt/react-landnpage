@@ -1,8 +1,19 @@
-# React + Vite
+# **Description**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## **☁️ Cloud Storage Landing Page**
 
-Currently, two official plugins are available:
+This project is a modern and responsive landing page for a cloud storage company, built using **React**. Designed with a sleek and professional aesthetic, the page effectively communicates the company's services while ensuring an optimal user experience across all devices.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The landing page features a **mobile-friendly** navigation menu with a stylish bar menu for smaller screens, ensuring seamless usability and maintaining its polished design on tablets and smartphones.
+
+# **🛠️ Main Features**
+- **React**
+- **Responsive design**
+- **Mobile bar menu**
+- **Tailwind CSS**
+
+# **📷 Screenshots**
+
+![Screenshot](./screenshot/img1.PNG)
+
+![Screenshot](./screenshot/img2.PNG)
